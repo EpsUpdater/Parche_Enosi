@@ -109,6 +109,12 @@
 {"file":"Qiang/Xing/helm_mail_ahnquiraj_a_01black.blp","id":139239},
 {"file":"Qiang/YanxinKid/kultiranmalekid_brown.blp","id":1622515},
 {"file":"Qiang/YanxinKid/kultiranmalekidhair_black.blp","id":1622517},
+{"file":"Qiang/Yanxing/helm_mail_pvpshaman_b_01_hum.m2","id":238011},
+{"file":"Qiang/Yanxing/helm_mail_pvpshaman_b_01_hum00.skin","id":488013},
+{"file":"Qiang/Yanxing/mail_pvpshaman_b_01.blp","id":238336},
+{"file":"Qiang/Yanxing/mail_pvpshaman_b_01green.blp","id":238338},
+{"file":"Qiang/Yanxing/mail_pvpshaman_b_01purple.blp","id":238339},
+{"file":"Qiang/Yanxing/mail_pvpshaman_b_01red.blp","id":238340},
 {"file":"WMO/8du_mechagon_main.wmo","id":3064380},
 {"file":"WMO/8du_mechagon_main_000.wmo","id":3064562},
 {"file":"WMO/8du_mechagon_main_001.wmo","id":3064565},
@@ -215,10 +221,7 @@
 {"file":"heian/humanmalefaceupper02_09_hd.blp","id":1466930},
 {"file":"heian/humanmalenakedpelvisskin00_102_hd.blp","id":1466932},
 {"file":"heian/humanmaleskin00_09_hd.blp","id":1466936},
-{"file":"Qiang/Yanxing/helm_mail_pvpshaman_b_01_hum.m2","id":238011},
-{"file":"Qiang/Yanxing/helm_mail_pvpshaman_b_01_hum00.skin","id":488013},
-{"file":"Qiang/Yanxing/mail_pvpshaman_b_01.blp","id":238336},
-{"file":"Qiang/Yanxing/mail_pvpshaman_b_01green.blp","id":238338},
-{"file":"Qiang/Yanxing/mail_pvpshaman_b_01purple.blp","id":238339},
-{"file":"Qiang/Yanxing/mail_pvpshaman_b_01red.blp","id":238340}
+{"file":"Kaito/helm_misc_vikingpartyhat_a_01_hum.m2","id":668791},
+{"file":"Kaito/helm_misc_vikingpartyhat_a_01_hum00.skin","id":668792},
+{"file":"Kaito/helm_partyhat_06horde.blp","id":668768}
 ]}
